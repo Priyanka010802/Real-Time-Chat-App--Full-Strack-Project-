@@ -89,7 +89,7 @@ RealChatApp/
 ## 👤 Author
 
 **Priyanka**
-- GitHub: [@Priyanka010802](https://github.com/Priyanka010802)
+- GitHub: [PRIYANKA SANGAMKAR](https://github.com/Priyanka010802)
 
 ---
-*Created with ❤️ by Priyanka*
+👩‍💻 Developed by **Priyanka**
