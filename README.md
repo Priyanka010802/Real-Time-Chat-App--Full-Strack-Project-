@@ -93,7 +93,8 @@ RealChatApp/
 
 <img width="1920" height="808" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/b48c1973-a256-470f-b7b1-c0a75d57400e" />
 
-<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/11f371dc-c94e-412b-8ff6-0db7f4bc7526" />
+
+<img width="1920" height="900" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/8d1fc233-7296-4277-95ee-4cdaf599d860" />
 
 
 
