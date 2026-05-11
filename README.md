@@ -88,11 +88,14 @@ RealChatApp/
 
 ##  OutPut 
 
-<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/e5937e97-2a8a-43c7-bcf2-fde8c0609b12" />
+<img width="1920" height="872" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/866050cb-d3f2-4065-8035-60a37a07285c" />
 
-<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/077bfece-486f-45d4-b82c-01c562a29b4c" />
 
-<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/501a70c2-bdb1-4310-bceb-4ffe2f9c95bc" />
+<img width="1920" height="808" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/b48c1973-a256-470f-b7b1-c0a75d57400e" />
+
+<img width="1920" height="1080" alt="Screenshot (37)" src="https://github.com/user-attachments/assets/11f371dc-c94e-412b-8ff6-0db7f4bc7526" />
+
+
 
 
 
